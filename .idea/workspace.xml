@@ -1,10 +1,16 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="218418da-6111-4a4c-aef1-0d0079205d03" name="Default Changelist" comment="">
+    <list default="true" id="218418da-6111-4a4c-aef1-0d0079205d03" name="Default Changelist" comment="commit">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/com/automation/tests/cases1_5/TestCases1to5.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/com/automation/tests/cases1_5/TestCases1to5.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/test-classes/com/automation/tests/cases1_5/TestCases1to5.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/com/automation/tests/cases1_5/TestCases1to5.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/Homework3-1.0-SNAPSHOT.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/maven-archiver/pom.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/createdFiles.lst" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/inputFiles.lst" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/surefire-reports/TEST-com.automation.tests.cases1_5.TestCases1to5.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/surefire-reports/com.automation.tests.cases1_5.TestCases1to5.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/com/automation/tests/cases1_5/TestCases1to5.class" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -85,7 +91,14 @@
       <option name="project" value="LOCAL" />
       <updated>1584753315060</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="commit">
+      <created>1584754880193</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1584754880193</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -93,28 +106,33 @@
     <option name="LAST_COMMIT_MESSAGE" value="commit" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="353" y="31" key="CommitChangelistDialog2" timestamp="1584753314389">
-      <screen x="0" y="0" width="1440" height="830" />
+    <state x="353" y="27" key="CommitChangelistDialog2" timestamp="1584755159406">
+      <screen x="0" y="0" width="1440" height="826" />
     </state>
+    <state x="353" y="27" key="CommitChangelistDialog2/0.0.1440.826@0.0.1440.826" timestamp="1584755159406" />
     <state x="353" y="31" key="CommitChangelistDialog2/0.0.1440.830@0.0.1440.830" timestamp="1584753314389" />
-    <state width="1398" height="245" key="GridCell.Tab.0.bottom" timestamp="1584754634307">
-      <screen x="0" y="0" width="1440" height="828" />
+    <state width="1398" height="245" key="GridCell.Tab.0.bottom" timestamp="1584755396907">
+      <screen x="0" y="0" width="1440" height="826" />
     </state>
+    <state width="1398" height="245" key="GridCell.Tab.0.bottom/0.0.1440.826@0.0.1440.826" timestamp="1584755396907" />
     <state width="1398" height="245" key="GridCell.Tab.0.bottom/0.0.1440.828@0.0.1440.828" timestamp="1584754634307" />
     <state width="1398" height="245" key="GridCell.Tab.0.bottom/0.0.1440.830@0.0.1440.830" timestamp="1584751628330" />
-    <state width="1398" height="245" key="GridCell.Tab.0.center" timestamp="1584754634305">
-      <screen x="0" y="0" width="1440" height="828" />
+    <state width="1398" height="245" key="GridCell.Tab.0.center" timestamp="1584755396905">
+      <screen x="0" y="0" width="1440" height="826" />
     </state>
+    <state width="1398" height="245" key="GridCell.Tab.0.center/0.0.1440.826@0.0.1440.826" timestamp="1584755396905" />
     <state width="1398" height="245" key="GridCell.Tab.0.center/0.0.1440.828@0.0.1440.828" timestamp="1584754634305" />
     <state width="1398" height="245" key="GridCell.Tab.0.center/0.0.1440.830@0.0.1440.830" timestamp="1584751628328" />
-    <state width="1398" height="245" key="GridCell.Tab.0.left" timestamp="1584754634305">
-      <screen x="0" y="0" width="1440" height="828" />
+    <state width="1398" height="245" key="GridCell.Tab.0.left" timestamp="1584755396903">
+      <screen x="0" y="0" width="1440" height="826" />
     </state>
+    <state width="1398" height="245" key="GridCell.Tab.0.left/0.0.1440.826@0.0.1440.826" timestamp="1584755396903" />
     <state width="1398" height="245" key="GridCell.Tab.0.left/0.0.1440.828@0.0.1440.828" timestamp="1584754634305" />
     <state width="1398" height="245" key="GridCell.Tab.0.left/0.0.1440.830@0.0.1440.830" timestamp="1584751628327" />
-    <state width="1398" height="245" key="GridCell.Tab.0.right" timestamp="1584754634306">
-      <screen x="0" y="0" width="1440" height="828" />
+    <state width="1398" height="245" key="GridCell.Tab.0.right" timestamp="1584755396906">
+      <screen x="0" y="0" width="1440" height="826" />
     </state>
+    <state width="1398" height="245" key="GridCell.Tab.0.right/0.0.1440.826@0.0.1440.826" timestamp="1584755396906" />
     <state width="1398" height="245" key="GridCell.Tab.0.right/0.0.1440.828@0.0.1440.828" timestamp="1584754634306" />
     <state width="1398" height="245" key="GridCell.Tab.0.right/0.0.1440.830@0.0.1440.830" timestamp="1584751628329" />
     <state x="320" y="190" key="Vcs.Push.Dialog.v2" timestamp="1584753322692">
