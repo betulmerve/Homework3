@@ -4,6 +4,7 @@
     <list default="true" id="218418da-6111-4a4c-aef1-0d0079205d03" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/test/java/com/automation/tests/cases1_5/TestCases1to5.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/com/automation/tests/cases1_5/TestCases1to5.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/com/automation/tests/cases1_5/TestCases1to5.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/com/automation/tests/cases1_5/TestCases1to5.class" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -41,6 +42,31 @@
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.0" />
   </component>
+  <component name="RunManager">
+    <configuration name="TestCases1to5.testCase1" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="Homework3" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.automation.tests.cases1_5.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.automation.tests.cases1_5" />
+      <option name="MAIN_CLASS_NAME" value="com.automation.tests.cases1_5.TestCases1to5" />
+      <option name="METHOD_NAME" value="testCase1" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="TestNG.TestCases1to5.testCase1" />
+      </list>
+    </recent_temporary>
+  </component>
   <component name="SvnConfiguration">
     <configuration />
   </component>
@@ -52,24 +78,48 @@
       <option name="presentableId" value="Default" />
       <updated>1584739256044</updated>
     </task>
+    <task id="LOCAL-00001" summary="commit">
+      <created>1584753315060</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1584753315060</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="commit" />
+    <option name="LAST_COMMIT_MESSAGE" value="commit" />
+  </component>
   <component name="WindowStateProjectService">
-    <state width="1398" height="245" key="GridCell.Tab.0.bottom" timestamp="1584739882884">
+    <state x="353" y="31" key="CommitChangelistDialog2" timestamp="1584753314389">
       <screen x="0" y="0" width="1440" height="830" />
     </state>
-    <state width="1398" height="245" key="GridCell.Tab.0.bottom/0.0.1440.830@0.0.1440.830" timestamp="1584739882884" />
-    <state width="1398" height="245" key="GridCell.Tab.0.center" timestamp="1584739882882">
+    <state x="353" y="31" key="CommitChangelistDialog2/0.0.1440.830@0.0.1440.830" timestamp="1584753314389" />
+    <state width="1398" height="245" key="GridCell.Tab.0.bottom" timestamp="1584754634307">
+      <screen x="0" y="0" width="1440" height="828" />
+    </state>
+    <state width="1398" height="245" key="GridCell.Tab.0.bottom/0.0.1440.828@0.0.1440.828" timestamp="1584754634307" />
+    <state width="1398" height="245" key="GridCell.Tab.0.bottom/0.0.1440.830@0.0.1440.830" timestamp="1584751628330" />
+    <state width="1398" height="245" key="GridCell.Tab.0.center" timestamp="1584754634305">
+      <screen x="0" y="0" width="1440" height="828" />
+    </state>
+    <state width="1398" height="245" key="GridCell.Tab.0.center/0.0.1440.828@0.0.1440.828" timestamp="1584754634305" />
+    <state width="1398" height="245" key="GridCell.Tab.0.center/0.0.1440.830@0.0.1440.830" timestamp="1584751628328" />
+    <state width="1398" height="245" key="GridCell.Tab.0.left" timestamp="1584754634305">
+      <screen x="0" y="0" width="1440" height="828" />
+    </state>
+    <state width="1398" height="245" key="GridCell.Tab.0.left/0.0.1440.828@0.0.1440.828" timestamp="1584754634305" />
+    <state width="1398" height="245" key="GridCell.Tab.0.left/0.0.1440.830@0.0.1440.830" timestamp="1584751628327" />
+    <state width="1398" height="245" key="GridCell.Tab.0.right" timestamp="1584754634306">
+      <screen x="0" y="0" width="1440" height="828" />
+    </state>
+    <state width="1398" height="245" key="GridCell.Tab.0.right/0.0.1440.828@0.0.1440.828" timestamp="1584754634306" />
+    <state width="1398" height="245" key="GridCell.Tab.0.right/0.0.1440.830@0.0.1440.830" timestamp="1584751628329" />
+    <state x="320" y="190" key="Vcs.Push.Dialog.v2" timestamp="1584753322692">
       <screen x="0" y="0" width="1440" height="830" />
     </state>
-    <state width="1398" height="245" key="GridCell.Tab.0.center/0.0.1440.830@0.0.1440.830" timestamp="1584739882882" />
-    <state width="1398" height="245" key="GridCell.Tab.0.left" timestamp="1584739882880">
-      <screen x="0" y="0" width="1440" height="830" />
-    </state>
-    <state width="1398" height="245" key="GridCell.Tab.0.left/0.0.1440.830@0.0.1440.830" timestamp="1584739882880" />
-    <state width="1398" height="245" key="GridCell.Tab.0.right" timestamp="1584739882883">
-      <screen x="0" y="0" width="1440" height="830" />
-    </state>
-    <state width="1398" height="245" key="GridCell.Tab.0.right/0.0.1440.830@0.0.1440.830" timestamp="1584739882883" />
+    <state x="320" y="190" key="Vcs.Push.Dialog.v2/0.0.1440.830@0.0.1440.830" timestamp="1584753322692" />
   </component>
 </project>
