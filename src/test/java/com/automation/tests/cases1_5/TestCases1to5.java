@@ -21,7 +21,7 @@ public class TestCases1to5 {
         driver.findElement(By.name("birthday")).sendKeys("wrong_dob");
         Thread.sleep(3000);
 
-        String expected="";
+        String expected="no valid";
         String actual="";
 
     }
