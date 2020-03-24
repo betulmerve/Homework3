@@ -22,7 +22,7 @@ public class TestCases9to12 {
     }
 
     @Test(dataProvider = "testData")
-    public void testCase9(String code){
+    public void testCases(String code){
 
         driver.findElement(By.linkText(code)).click();
         BrowserUtils.wait(2);
@@ -30,35 +30,6 @@ public class TestCases9to12 {
         WebElement message=driver.findElement(By.tagName("p"));
         Assert.assertTrue(message.getText().contains(expected),"The status code does not exist");
     }
-//    @Test(dataProvider = "testData")
-//    public void testCase10(String code){
-//
-//        driver.findElement(By.linkText(code)).click();
-//        BrowserUtils.wait(2);
-//        String expected="This page returned a "+code+" status code";
-//        WebElement message=driver.findElement(By.tagName("p"));
-//        Assert.assertTrue(message.isDisplayed());
-//    }
-//
-//    @Test(priority = 3,dataProvider = "testData")
-//    public void testCase11(String code){
-//
-//        driver.findElement(By.linkText(code)).click();
-//        BrowserUtils.wait(2);
-//        String expected="This page returned a "+code+" status code";
-//        WebElement message=driver.findElement(By.tagName("p"));
-//        Assert.assertTrue(message.isDisplayed());
-//    }
-//
-//    @Test(priority = 4,dataProvider = "testData")
-//    public void testCase12(String code){
-//
-//        driver.findElement(By.linkText(code)).click();
-//        BrowserUtils.wait(2);
-//        String expected="This page returned a "+code+" status code";
-//        WebElement message=driver.findElement(By.tagName("p"));
-//        Assert.assertTrue(message.isDisplayed());
-//    }
 
 
     @BeforeMethod
