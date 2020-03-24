@@ -29,16 +29,17 @@ public class TestCase6 {
         BrowserUtils.wait(2);
         driver.findElement(By.name("wooden_spoon")).click();
         BrowserUtils.wait(2);
-
         String expected="Thank you for signing up. Click the button below to return to the home page.";
         String actual=driver.findElement(By.tagName("h3")).getText();
         Assert.assertEquals(actual,expected);
         driver.navigate().to("https://www.tempmailaddress.com/");
         BrowserUtils.wait(5);
-        WebElement received=driver.findElement(By.xpath("//span[text()='do-not-reply@practice.cybertekschool.com']"));
-        //Assert.assertTrue(received.isDisplayed());
+        //Step10
+        WebElement received=driver.findElement(By.xpath("//td[text()='Thanks for subscribing to practice.cybertekschool.com!']"));
+        Assert.assertTrue(received.isDisplayed());
         received.click();
         BrowserUtils.wait(2);
+
         String expectedMail="do-not-reply@practice.cybertekschool.com";
         String actualMail=driver.findElement(By.id("odesilatel")).getText();
         Assert.assertEquals(actualMail,expectedMail);
